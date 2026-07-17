@@ -1,0 +1,13 @@
+# Built variants and outputs
+**/build/
+*.apk
+*.bundle
+
+# IDE settings and configurations
+.idea/
+*.iml
+.gradle/
+local.properties
+
+# macOS system overhead files
+.DS_Store
